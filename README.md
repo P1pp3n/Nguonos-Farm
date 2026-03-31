@@ -1,2 +1,2 @@
 # Nguonos-Farm
-Ng’uono’s Farm is a forward-thinking agricultural project dedicated to poultry farming and sustainable food production. The goal of this repository is to support the digital transformation of farm operations by leveraging technology for better management, tracking, and decision-making.
+Ng’uono’s Farm is a poultry business based in Homabay, Kenya, specializing in the sale of day-old chicks, fresh eggs, and fully grown birds. This repository contains the source code for the official Ng’uono’s Farm website, designed to showcase products, connect with customers, and support the growth of the business through a strong online presence.
